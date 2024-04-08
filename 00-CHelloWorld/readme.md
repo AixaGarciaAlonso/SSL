@@ -1,4 +1,4 @@
 # Compilador
-- **Compilador seleccionado:** Microsoft	Visual Studio
-- **Versión del compilador:** Community 2022
+- **Compilador seleccionado:** MSYS2
+- **Versión del compilador:** 
 - **Versión de C que compila:** C18
